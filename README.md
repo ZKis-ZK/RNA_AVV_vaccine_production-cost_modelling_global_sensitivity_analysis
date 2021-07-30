@@ -6,9 +6,9 @@ This repository contains the following files:
 
 • the SuperPro Designer Version 12, Build 2 (Intelligen, Inc.) model for mRNA vaccine drug substance production process using modified UTP (N1-methylpseudouridine-5'-triphosphate) at the 30 L bioreactor working volume scale: "mRNA_vaccine_DS_production_modelling_mod-UTP_30L.spf”;
 
-• the SuperPro Designer Version 12, Build 2 (Intelligen, Inc.) model of saRNA vaccine drug substance production process using wild-type UTP (non-modified uridine-5'-triphosphate) at the 5 L bioreactor working volume scale: "saRNA_vaccine_DS_production_modelling_wt-UTP_5L.spf”;
+• the SuperPro Designer Version 12, Build 2 (Intelligen, Inc.) model for saRNA vaccine drug substance production process using wild-type UTP (non-modified uridine-5'-triphosphate) at the 5 L bioreactor working volume scale: "saRNA_vaccine_DS_production_modelling_wt-UTP_5L.spf”;
 
-• the SuperPro Designer Version 12, Build 2 (Intelligen, Inc.) model of AVV vaccine drug substance production process using wild-type UTP (non-modified uridine-5'-triphosphate) at the 2000 L bioreactor working volume scale: "AVV_vaccine_DS_production_modelling_2000L.spf”;
+• the SuperPro Designer Version 12, Build 2 (Intelligen, Inc.) model for AVV vaccine drug substance production process using wild-type UTP (non-modified uridine-5'-triphosphate) at the 2000 L bioreactor working volume scale: "AVV_vaccine_DS_production_modelling_2000L.spf”;
 
 The techno-economic modelling was carried out in SuperPro Designer v11 and v12. SuperPro Designer is available from:
 https://www.intelligen.com/products/superpro-overview/
