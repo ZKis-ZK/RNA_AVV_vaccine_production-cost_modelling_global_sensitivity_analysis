@@ -12,8 +12,8 @@ This repository contains the following SuperPro Designer files:
 
 • the SuperPro Designer Version 12, Build 3 (Intelligen, Inc.) model for saRNA vaccine drug substance production process using wild-type UTP (non-modified uridine-5'-triphosphate) at the 5 L bioreactor working volume scale: "saRNA_vaccine_DS_production_modelling_wt-UTP_5L.spf”;
 
-
 The corresponding .spf, .sp and .s SuperPro Designer Version 12 files should all be located in the same folder when running the .spf file on the computer.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This repository contains the following MatLab code files:
 
